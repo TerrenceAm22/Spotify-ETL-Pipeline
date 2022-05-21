@@ -1,0 +1,51 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Right On,Right On,Lil Baby,2022-04-08,213975,80,0.535,0.0245,0.535,0.618,0.0,0.103,-5.668,0.382,165.991,4
+1,Silent Hill,Mr. Morale & The Big Steppers,Kendrick Lamar,2022-05-13,220779,83,0.907,0.438,0.907,0.577,3.19e-05,0.137,-6.737,0.0767,140.07,4
+2,PUFFIN ON ZOOTIEZ,I NEVER LIKED YOU,Future,2022-05-02,172933,74,0.883,0.0603,0.883,0.657,0.0,0.128,-5.748,0.305,124.992,4
+3,Rocky Road (with Kodak Black),Rocky Road (with Kodak Black),Moneybagg Yo,2022-05-16,178948,53,0.702,0.00958,0.702,0.639,0.0,0.161,-7.301,0.333,172.919,4
+4,Dua Lipa,Come Home The Kids Miss You,Jack Harlow,2022-05-06,135053,84,0.833,0.00161,0.833,0.652,0.0985,0.106,-6.942,0.0762,158.022,4
+5,HOTEL LOBBY (Unc & Phew),HOTEL LOBBY (Unc & Phew),Quavo,2022-05-20,142657,0,0.821,0.142,0.821,0.636,0.0,0.233,-4.479,0.169,127.961,4
+6,Cooped Up (with Roddy Ricch),Cooped Up,Post Malone,2022-05-12,185857,82,0.669,0.038,0.669,0.773,0.0,0.113,-5.619,0.153,93.923,4
+7,In A Minute,In A Minute,Lil Baby,2022-04-07,200470,78,0.643,0.0336,0.643,0.605,0.0,0.112,-5.968,0.297,84.216,4
+8,Rich Spirit,Mr. Morale & The Big Steppers,Kendrick Lamar,2022-05-13,202285,84,0.852,0.428,0.852,0.421,2.28e-06,0.106,-9.153,0.208,95.977,4
+9,I'M ON ONE (feat. Drake),I NEVER LIKED YOU,Future,2022-04-29,236186,80,0.773,0.0103,0.773,0.707,1.04e-05,0.296,-5.71,0.0568,76.977,4
+10,Let's Get It (Remix) [feat. 21 Savage],Let's Get It (Remix) [feat. 21 Savage],Hunxho,2022-02-18,156995,73,0.863,0.0758,0.863,0.499,0.0,0.104,-8.602,0.514,80.073,4
+11,SOON (feat. Arabian),SOON (feat. Arabian),42 Dugg,2022-05-20,159104,0,0.665,0.112,0.665,0.633,0.0,0.0987,-9.324,0.305,168.985,4
+12,Churchill Downs (feat. Drake),Come Home The Kids Miss You,Jack Harlow,2022-05-06,309327,81,0.71,0.615,0.71,0.522,0.0,0.11,-9.102,0.36,96.448,4
+13,Scrape It Off (feat. Lil Uzi Vert & Don Toliver),It's Almost Dry,Pusha T,2022-04-22,152612,76,0.594,0.484,0.594,0.679,7.83e-06,0.114,-3.702,0.345,106.726,5
+14,Meat This,Meat This,Blueface,2022-05-20,146285,18,0.918,0.0577,0.918,0.444,0.0,0.227,-8.53,0.345,105.037,4
+15,Certified (feat. Gunna),Shiesty Season: Certified,Pooh Shiesty,2022-04-29,149610,71,0.664,0.139,0.664,0.559,0.0,0.303,-7.568,0.075,153.95,4
+16,Frozen,Frozen,Lil Baby,2022-04-28,179148,74,0.514,0.138,0.514,0.65,0.0,0.103,-8.867,0.499,127.428,5
+17,What Happened To Virgil (feat. Gunna),7220,Lil Durk,2022-03-11,181393,79,0.795,0.067,0.795,0.526,2e-06,0.134,-9.086,0.204,140.037,4
+18,Wraith,Wraith,Chance the Rapper,2022-05-17,147692,51,0.957,0.162,0.957,0.528,1.3e-06,0.615,-6.025,0.128,130.001,4
+19,LIKE ME (feat. 42 Dugg & Lil Baby),I NEVER LIKED YOU,Future,2022-05-02,132986,72,0.741,0.00119,0.741,0.788,0.0,0.0957,-6.403,0.2,160.03,4
+20,N95,Mr. Morale & The Big Steppers,Kendrick Lamar,2022-05-13,195950,88,0.79,0.377,0.79,0.67,2.32e-06,0.119,-5.527,0.105,139.956,4
+21,BONNET (feat. Pooh Shiesty),BONNET (feat. Pooh Shiesty),DaBaby,2022-05-11,170254,60,0.73,0.272,0.73,0.738,0.0,0.125,-3.664,0.176,127.014,4
+22,Serial Killers,Serial Killers,Gucci Mane,2022-04-15,188967,70,0.752,0.0319,0.752,0.617,0.0,0.261,-5.68,0.0544,144.006,4
+23,First Class,First Class,Jack Harlow,2022-04-08,173947,94,0.905,0.0254,0.905,0.563,9.71e-06,0.113,-6.135,0.102,106.998,4
+24,I Be,Yellow Tape 2 (Deluxe),Key Glock,2022-03-25,193480,71,0.905,0.00813,0.905,0.724,0.0,0.329,-6.255,0.237,136.982,4
+25,Hold That Heat (feat. Travis Scott),Hold That Heat (feat. Travis Scott),Southside,2022-04-22,221538,76,0.744,0.0295,0.744,0.608,0.0,0.397,-6.386,0.0442,130.045,4
+26,Sleazy Flow,Sleazy Flow,SleazyWorld Go,2021-10-15,111483,75,0.825,0.235,0.825,0.234,9.54e-06,0.0696,-14.202,0.495,77.487,4
+27,Goin Up,Goin Up,Lil Tjay,2022-04-29,140601,74,0.732,0.0642,0.732,0.672,0.0,0.121,-8.462,0.148,137.03,4
+28,Banking On Me,Banking On Me,Gunna,2022-02-14,200000,78,0.793,0.613,0.793,0.308,1.68e-05,0.0953,-10.414,0.0466,135.143,4
+29,Bestie,BETTER THAN YOU,DaBaby,2022-03-04,111970,76,0.807,0.0741,0.807,0.625,0.0,0.487,-6.67,0.351,146.031,4
+30,Heavy (with Lil Uzi Vert),Heavy,Nigo,2022-03-18,200425,69,0.677,0.167,0.677,0.558,0.0,0.365,-7.681,0.177,144.485,4
+31,Changed On Me (feat. Vory & Polo G),B.I.B.L.E.,Fivio Foreign,2022-04-08,241643,71,0.6,0.0277,0.6,0.617,0.0,0.253,-6.794,0.117,145.805,4
+32,D.M.B.,D.M.B.,A$AP Rocky,2022-05-05,291611,75,0.727,0.542,0.727,0.616,4.47e-06,0.482,-8.487,0.338,140.014,4
+33,Neck & Wrist (feat. JAY-Z & Pharrell),Neck & Wrist,Pusha T,2022-04-06,209314,69,0.625,0.0223,0.625,0.542,0.0,0.377,-4.365,0.266,152.403,4
+34,In My Head,In My Head,Lil Tjay,2022-04-01,135264,85,0.684,0.159,0.684,0.545,0.0,0.102,-6.885,0.121,143.049,4
+35,Petty Too (feat. Future),7220,Lil Durk,2022-03-11,159926,75,0.824,0.0109,0.824,0.577,0.0,0.107,-9.443,0.357,154.081,4
+36,Thump Shit,Thump Shit,42 Dugg,2022-04-05,226362,47,0.719,0.00222,0.719,0.611,1.3e-06,0.336,-7.325,0.207,144.929,4
+37,Lights Off (feat. Gunna & Lil Durk),Lights Off (feat. Gunna & Lil Durk),Tay Keith,2022-04-22,215510,66,0.776,0.123,0.776,0.671,0.0,0.0913,-5.791,0.255,147.06,5
+38,Ye Not Crazy,Ye Not Crazy,Joyner Lucas,2022-04-01,226758,70,0.862,0.144,0.862,0.547,0.0,0.0691,-9.557,0.333,145.191,4
+39,Rumors (feat. Lil Durk),Rumors (feat. Lil Durk),Gucci Mane,2022-01-25,185855,76,0.688,0.0499,0.688,0.842,0.0,0.241,-4.211,0.264,159.897,4
+40,We Set The Trends (feat. Migos & ‎Juelz Santana) - Remix,We Set The Trends (Remix) [feat. ‎Migos & Juelz Santana],Jim Jones,2022-04-08,217815,67,0.801,0.0771,0.801,0.794,0.0,0.204,-4.674,0.315,119.044,4
+41,WIG (with Moneybagg Yo),WIG (with Moneybagg Yo),DaBaby,2022-05-11,177986,67,0.775,0.0167,0.775,0.5,0.0,0.111,-7.654,0.345,148.926,4
+42,Plan B,Plan B,Megan Thee Stallion,2022-04-22,163764,76,0.787,0.0668,0.787,0.522,0.0,0.108,-5.872,0.463,170.439,4
+43,LONDON (feat. J. Cole),LONDON (feat. J. Cole),BIA,2022-04-08,250722,75,0.644,0.0225,0.644,0.671,0.0,0.0855,-5.156,0.315,132.001,4
+44,Wheelie (feat. 21 Savage),Wheelie (feat. 21 Savage),Latto,2022-03-11,170270,69,0.911,0.0313,0.911,0.667,0.0,0.0854,-6.606,0.277,147.976,4
+45,Blick Blick (with Nicki Minaj),Blick Blick,Coi Leray,2022-03-18,178413,72,0.916,0.222,0.916,0.824,0.00108,0.0661,-4.444,0.422,139.926,4
+46,[Admire Her] (with Gunna),[BUMP] Pick Me Up,Bas,2022-04-15,157777,65,0.883,0.366,0.883,0.507,0.0,0.136,-7.188,0.244,138.008,4
+47,"Shake It (feat. Cardi B, Dougie B & Bory300)","Shake It (feat. Cardi B, Dougie B & Bory300)",Kay Flock,2022-04-15,118249,76,0.87,0.0353,0.87,0.835,0.0,0.142,-5.875,0.311,140.051,4
+48,We Go Up (feat. Fivio Foreign),We Go Up,Nicki Minaj,2022-03-25,255188,71,0.707,0.413,0.707,0.909,0.0,0.305,-3.501,0.261,145.014,4
+49,Sheikh Talk,Sheikh Talk,Tyga,2022-05-06,160256,66,0.834,0.11,0.834,0.574,0.0,0.131,-6.207,0.0716,96.999,4
